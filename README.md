@@ -1,7 +1,6 @@
 # **Penn State Great Valley Knowledge Base Application**
 
-![image](https://github.com/user-attachments/assets/33ca01b5-709d-43ff-87e4-e891b2c6de42)
-
+![image](https://github.com/user-attachments/assets/50e5cf59-d99a-4743-b3ef-7e196322146a)
 
 This project is designed to scrape, process, and analyze static and dynamic web data for Penn State Great Valley. It collects information across multiple tabs such as Academics, Admissions, Professional Development, and Information For, and organizes it into vector databases. The system enables semantic search and efficient query answering through a unified vector database and LangChain-powered agents.
 
